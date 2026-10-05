@@ -8,7 +8,7 @@ This project compares a **symbolic, logic-based learner** (Aleph Inductive Logic
 
 The question it asks: *how much predictive performance do we give up when we use a model whose decisions a human can read?* On this dataset the answer is "almost none". Aleph learns **four short, human-readable rules** that reach 99.7% test accuracy, within 0.2 percentage points of the black-box models.
 
-> Coursework project for **Machine Learning for Data Science (MLDS)**, MSc, University of Surrey.
+
 
 ---
 
@@ -156,8 +156,3 @@ Notebook 05 reads the result files written by 02, 03 and 04, so run those first.
 - Aleph v5 by Ashwin Srinivasan, freely available for academic use.
 - [PyILP](https://pypi.org/project/PyILP/) for the Python–Aleph interface.
 - The MLDS module team at the University of Surrey for the lab materials.
-
-## Author
-
-**[Your Name]** — MSc, University of Surrey
-[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
